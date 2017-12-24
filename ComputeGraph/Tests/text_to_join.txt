@@ -1,0 +1,5 @@
+{"doc_id": "0", "word1": "word05 word06"}
+{"doc_id": "1", "word1": "text1"}
+{"doc_id": "2", "word1": "word01 word02"}
+{"doc_id": "1", "word1": "text12"}
+{"doc_id": "1", "word1": "text13"}

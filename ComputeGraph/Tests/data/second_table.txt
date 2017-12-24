@@ -1,0 +1,6 @@
+{"color": "black", "rgb_": [255,255,255,1], "hex_": "#000"}
+{"color": "white", "rgb_": [0,0,0,1], "hex_": "#FFF"}
+{"color": "red", "rgb_": [255,0,0,1], "hex_": "#FF0"}
+{"color": "blue", "rgb_": [0,0,255,1], "hex_": "#00F"}
+{"color": "yellow", "rgb_": [255,255,0,1], "hex_": "#FF0"}
+{"color": "green", "rgb_": [0,255,0,1], "hex_": "#0F0"}

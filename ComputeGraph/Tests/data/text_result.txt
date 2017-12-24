@@ -1,0 +1,10 @@
+{"doc_id": "0", "text": "word01 word02"}
+{"doc_id": "1", "text": "text1"}
+{"doc_id": "2", "text": "word03 word04"}
+{"doc_id": "1", "text": "text1"}
+{"doc_id": "1", "text": "text1 word05"}
+{"doc_id": "5", "text": "text1"}
+{"doc_id": "6", "text": "text6"}
+{"doc_id": "7", "text": "text7"}
+{"doc_id": "8", "text": "text8"}
+{"doc_id": "9", "text": "text9"}
